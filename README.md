@@ -1,5 +1,4 @@
-# COMSCI450.1
-Final Project for COMSCI450.1 - Using NFL Analytics to Contextualize Player Performance & Predict Playoff Probability
+# Final Project for COMSCI450.1 - Using NFL Analytics to Contextualize Player Performance & Predict Playoff Probability
 Hypothetical Scenario:  You are the GM of the 2021 Carolina Panthers.  Your club has just finished 5-12 & in last place in the NFC South & 4 wins short of the playoffs.  Your club is 31st/32 in Weighted DVOA, 32nd/32 in EPA per Play on Offense, but ranked 7th/32 in Defensive EPA per Play.
 
 The owner of the club has informed you that while the upcoming season schedule looks a little more favorable than the previous year you must make the playoffs this year or else you will be fired. You have $45M  you can free up in Salary Cap (minus dead money) to spend on Free Agent signings & you have a handful of picks to use in the the ‘22 draft to select players to add value to the club.  Your coach, playcallers and scheme design are above average and considered for this exercise to be stable & competent. 
